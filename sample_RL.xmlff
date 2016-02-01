@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<sample_RL>
+	<delim1 accept="|34*3|"    check="0"></delim1>
+	<delim2 accept="|#%-xRR|"  check="0"></delim2>
+	<delim3 accept="|)x-rXl|" check="0"></delim3>
+	<column>
+		<state accept="D,U,R,X"></state>
+		<inx accept="AN"></inx>
+		<id accept="N"></id>
+		<date accept="D"></date>
+		<user loc="[0]" ev="0" av="0" >
+			<name loc="[0][0]" ev="0" av="2" primLang="" secLang="">
+				<first loc="[0][0][0]" ev="1" av="1" srnme=""></first>
+				<last loc="[0][0][1]" ev="1" av="1" srnme=""></last>
+			</name>
+			<phone loc="[0][1]" ev="1" av="1" type=""></phone>
+		</user>
+		<address loc="[0]" ev="0" av="0">
+			<home loc="[0][0]" ev="0" av="4" street="" city="" state="" zip=""></home>
+			<work loc="[0][1]" ev="1" av="4" street="" city="" state="" zip=""></work>
+		</address>
+	</column>
+</sample_RL>
+
+
+
+
+
+
+
