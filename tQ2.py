@@ -29,8 +29,7 @@ import tQ
 #possibly applicable to a future implementation on top of this code
 uInit=[1,"ADMIN","michael","0","300",[]]   #[userok?,username,userid,usertz,misc arr]
 
-#heapPath="C:/Users/Jennifer/Desktop/CS4/Database/DB_V2/Database/Users/INITAL/user_HEAP.xmlff"
-#rlPath="C:/Users/Jennifer/Desktop/CS4/Database/DB_V2/Database/Users/INITAL/user_RL.xmlff"
+
 
 heapPath="C:/Python34/sample_HEAP.xmlff"   #root in the xmlff file must match the file name w/o extesnion this is the split file
 rlPath="C:/Python34/sample_RL.xmlff"       #root in the xmlff file must match the file name w/o extension this is the control file
