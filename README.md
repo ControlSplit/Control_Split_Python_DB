@@ -1,5 +1,6 @@
 ﻿# Control_Split_Python_DB
 
+Please read in Raw Form, thanks. 
 
 If you would like to take a look, please copy and paste the xmlff files onto your machine. 
 Please have at least python 3.4.3 installed. 
